@@ -7,7 +7,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 __version__ = "0.0.1"
 REPO_NAME = "database-crud"
-PKG_NAME= "db-crud"
+PKG_NAME= "db_crud"
 AUTHOR_USER_NAME = "kunalliman"
 AUTHOR_EMAIL = "limankunal16@gmail.com"
 
